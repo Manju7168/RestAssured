@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RestAPITesting/serenity.propeties&apos; to &apos;serenity.properties&apos;" description="Rename resource &apos;serenity.propeties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="serenity.propeties" name="serenity.properties" stamp="1567614535403" updateReferences="true"/>
+</session>

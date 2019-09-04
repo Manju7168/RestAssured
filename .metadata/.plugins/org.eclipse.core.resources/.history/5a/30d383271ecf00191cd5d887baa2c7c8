@@ -1,0 +1,7 @@
+import org.junit.runner.RunWith;
+import net.serenitybdd.junit.runners.SerenityRunner;
+
+@RunWith(SerenityRunner.class)
+public class TestingClass {
+
+}

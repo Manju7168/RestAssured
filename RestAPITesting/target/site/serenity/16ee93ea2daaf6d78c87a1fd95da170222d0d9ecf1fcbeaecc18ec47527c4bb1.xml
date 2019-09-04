@@ -1,0 +1,6 @@
+<acceptance-test-run title="Trigger Jenkins new Build" name="testCases" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="1879" timestamp="2019-09-04T19:52:04.711+05:30">
+  <user-story id="TestingClass" name="Testing class" path=""/>
+  <tags>
+    <tag name="Testing class" type="story"/>
+  </tags>
+</acceptance-test-run>

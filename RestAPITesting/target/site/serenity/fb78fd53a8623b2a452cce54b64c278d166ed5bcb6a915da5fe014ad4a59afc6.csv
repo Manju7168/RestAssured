@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing class","Trigger Jenkins new Build","SUCCESS","2019-09-04T19:52:04.711+05:30[Asia/Calcutta]","0.0","1.88"
+"Testing class","Trigger Jenkins new Build","SUCCESS","2019-09-04T22:02:00.289+05:30[Asia/Calcutta]","0.0","4.05"
